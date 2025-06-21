@@ -6,7 +6,7 @@ Usage:
 2. Run this script with Python 3.
 3. All .jpg files matching the pattern 'YYYY-MM-DDTHHMMSS...' will have their EXIF date set accordingly.
 
-Author: Your Name
+Author: iCosmoGeek
 License: MIT
 """
 
