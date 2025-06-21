@@ -14,8 +14,8 @@ import os
 import re
 import subprocess
 
-# Folder containing the JPG files
-folder = r"c:\Local-Not-Online\brightwheel_media"
+# Folder containing the JPG files. Update folder path
+folder = r"c:\media"
 # Regex pattern to match the filename format 'YYYY-MM-DDTHHMMSS...'
 pattern = re.compile(r"^(\d{4})-(\d{2})-(\d{2})T(\d{6})")
 
